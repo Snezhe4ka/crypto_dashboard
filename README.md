@@ -13,7 +13,7 @@
 
 
 Cryptocurrency Dashboard Application
-A dashboard built using Dash and Plotly for visualizing and monitoring cryptocurrency market data. This application provides an interactive user interface to track market trends, visualize top gainers, volume trends, ICO information, and more, all in real-time.
+A dashboard built using Dash and Plotly for visualizing and monitoring cryptocurrency market data. This application provides an interactive user interface to track market trends, visualize top gainers, volume trends and more, all in real-time.
 
 Features
 - Real-Time Data Updates: The dashboard fetches the latest data from the CoinGecko API to display up-to-date market information and save data to Postgres database, as I have used free API , it has request limits
@@ -36,7 +36,7 @@ cd cryptocurrency-dashboard'
 
 Create a Virtual Environment:
 'python3 -m venv venv
-source venv/bin/activate  # On Windows, use venv\Scripts\activate'
+source venv/bin/activate 
 
 Install Dependencies:
 
