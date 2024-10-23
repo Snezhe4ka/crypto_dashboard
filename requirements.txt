@@ -1,0 +1,12 @@
+Flask==2.3.2
+requests==2.28.1
+pandas==1.4.3
+numpy==1.23.5
+scipy==1.9.3
+dash
+dash-bootstrap-components
+python-dotenv
+cachetools
+sqlalchemy
+psycopg2
+dash-mantine-components
